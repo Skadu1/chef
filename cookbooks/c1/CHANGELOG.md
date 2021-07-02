@@ -1,6 +1,6 @@
-# c1 CHANGELOG
+# cookbook1 CHANGELOG
 
-This file is used to list changes made in each version of the c1 cookbook.
+This file is used to list changes made in each version of the cookbook1 cookbook.
 
 # 0.1.0
 

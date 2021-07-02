@@ -1,12 +1,12 @@
 #
-# Cookbook:: c1
+# Cookbook:: cookbook1
 # Spec:: default
 #
 # Copyright:: 2021, The Authors, All Rights Reserved.
 
 require 'spec_helper'
 
-describe 'c1::default' do
+describe 'cookbook1::default' do
   context 'When all attributes are default, on Ubuntu 18.04' do
     # for a complete list of available platforms and versions see:
     # https://github.com/chefspec/fauxhai/blob/master/PLATFORMS.md
